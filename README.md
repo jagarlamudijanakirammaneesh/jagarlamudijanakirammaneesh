@@ -22,11 +22,6 @@ bored cs student making stuff i think is cool.
 - [NoDope Browser](https://github.com/jagarlamudijanakirammaneesh) — less scrolling, more living.
 - [More stuff](https://github.com/jagarlamudijanakirammaneesh?tab=repositories) — other things i've made or broken.
 
-<p align="center">
-  <sub>more projects whenever i stop starting new ones.</sub>
-</p>
-```
-
 ### `tools i use`
 
 `C` · `Kotlin` · `Linux` · `Git` · `GitHub` · `Docker` · `Android Studio` · `Jetpack Compose` · 
