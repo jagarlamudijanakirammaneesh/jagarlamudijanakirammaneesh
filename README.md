@@ -12,9 +12,10 @@ bored computer science and information technology student making stuff i think i
 
 - decent at C and DSA
 - usually messing with Kotlin, Linux, and Android
-- running a homelab because apparently one computer isn't enough
+- running a homelab that blocks ads, stores my files, and streams music. basically my own little internet.
 - reading books and talking too much about them
 - not particularly interested in larping
+- i loveeeeeeee learning stuff with the help of AI
 
 ### ♡ check out my work
 
