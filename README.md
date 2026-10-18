@@ -16,11 +16,16 @@ bored cs student making stuff i think is cool.
 - reading books and talking too much about them
 - not particularly interested in larping
 
-### `currently messing with`
+### ♡ check out my work
 
-- NoInUPI — offline payments through USSD
-- Android apps that solve problems i probably invented
-- Linux, networking, and homelab stuff
+- [NoInUPI](https://github.com/jagarlamudijanakirammaneesh/NoInUPI) — offline UPI payments through USSD.
+- [NoDope Browser](https://github.com/jagarlamudijanakirammaneesh) — less scrolling, more living.
+- [More stuff](https://github.com/jagarlamudijanakirammaneesh?tab=repositories) — other things i've made or broken.
+
+<p align="center">
+  <sub>more projects whenever i stop starting new ones.</sub>
+</p>
+```
 
 ### `tools i use`
 
