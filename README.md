@@ -28,8 +28,7 @@ bored computer science and information technology student making stuff i think i
 `C` · `Kotlin` · `Linux` · `Git` · `GitHub` · `Docker` · `Android Studio` · `Jetpack Compose` · 
 
 ---
-
 <p align="center">
-  <sub>i make things. sometimes they work.</sub>
+  <b>I'd love an internship!</b><br>
+  Email me at <a href="mailto:jagarlamudijanakirammaneesh467@gmail.com">jagarlamudijanakirammaneesh467@gmail.com</a>
 </p>
-**I'd love an internship! If you have an opportunity, please email me at [jagarlamudijanakirammaneesh467@gmail.com](mailto:jagarlamudijanakirammaneesh467@gmail.com).**
