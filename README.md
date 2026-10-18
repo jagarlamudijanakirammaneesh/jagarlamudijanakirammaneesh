@@ -32,3 +32,4 @@ bored computer science and information technology student making stuff i think i
 <p align="center">
   <sub>i make things. sometimes they work.</sub>
 </p>
+**I'd love an internship! If you have an opportunity, please email me at [jagarlamudijanakirammaneesh467@gmail.com](mailto:jagarlamudijanakirammaneesh467@gmail.com).**
