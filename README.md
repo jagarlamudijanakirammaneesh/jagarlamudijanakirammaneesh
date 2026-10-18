@@ -8,7 +8,7 @@
 
 ### `whoami`
 
-bored cs student making stuff i think is cool.
+bored computer science and information technology student making stuff i think is cool. based in INDIA.
 
 - decent at C and DSA
 - usually messing with Kotlin, Linux, and Android
